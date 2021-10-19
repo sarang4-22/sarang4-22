@@ -2,7 +2,8 @@
 - 👀 I’m interested in web Designing,Rotoscoping,2d Animation,Digital Art.
 - 🌱 I’m currently learning Angular,Nodejs,Adobe Animate,Photoshop,Blender,FlipaCLip.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me @sarangshende4gmail.com
+- 📫 How to reach me 
+- Mail ID-:@sarangshende4gmail.com
 - Insta-:sarang_batmuscle
 
 <!---
