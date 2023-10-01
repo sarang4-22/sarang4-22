@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Sarang 
 - 👀 I’m interested in the Cybersecurity domain.
-- 🌱 I’m currently Doing CEH v12 certification, Animate, Photoshop, and Blender.
+- 🌱 I’m currently doing CEH v12 certification.
+- I have 4 months of experience as a SOC analyst L1 at IBM.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 - Mail ID-:@sarangshende4gmail.com
