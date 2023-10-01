@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sarang 
-- 👀 I’m interested in web Designing,Rotoscoping,2d Animation,Digital Art.
-- 🌱 I’m currently learning Angular,Nodejs,Adobe Animate,Photoshop,Blender,FlipaCLip.
+- 👀 I’m interested in the Cybersecurity domain.
+- 🌱 I’m currently Doing CEH v12 certification, Animate, Photoshop, and Blender.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 - Mail ID-:@sarangshende4gmail.com
